@@ -1,7 +1,7 @@
 # Android-Butter-Knife-Calculator
 
 
-This repository contains a siple Android Application.
+This repository contains a simple Android Application.
 
 Application Project and Screenshots 
 
