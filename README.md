@@ -1,4 +1,4 @@
-# Android-Butter-Knife-Calculator
+# Android Butter Knife Calculator
 
 
 This repository contains a simple Android Application.
