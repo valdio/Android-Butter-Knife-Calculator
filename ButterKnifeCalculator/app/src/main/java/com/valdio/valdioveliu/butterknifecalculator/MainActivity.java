@@ -60,8 +60,8 @@ public class MainActivity extends ActionBarActivity {
     @Bind(R.id.delete)
     Button delete;
 
-    //The onClick() methods for the buttons
 
+    //The onClick() methods for the buttons
 
     @OnClick(R.id.button)
     public void onClick() {
