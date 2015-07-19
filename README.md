@@ -12,3 +12,4 @@ This is not a professional application, only a demonstrative app coded with Andr
  
 
 
+![](https://github.com/valdio/Android-Butter-Knife-Calculator/blob/master/Screenshots/App%20design.png)
